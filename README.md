@@ -2,6 +2,8 @@
 
 I'm Titus Kiplagat, a passionate software engineer with a focus on front-end web development. 🌟 I'm dedicated to lifelong learning and enjoy tackling challenging problems. 📫 Let's connect and collaborate! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/titus-kiplagat-kemboi-9a8848262/) to discuss projects, share ideas, or just chat about tech and innovation.
 
+<br/>
+
 ```js
 const getTitusKiplagatInfo = () => {
  return {
