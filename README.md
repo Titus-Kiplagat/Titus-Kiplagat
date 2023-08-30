@@ -1,10 +1,10 @@
 # Hi there 👋
 
-I'm Titus Kiplagat, a passionate software engineer with a focus on front-end web development. 🌟 I'm dedicated to lifelong learning and enjoy tackling challenging problems. 📫 Let's connect and collaborate! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/titus-kiplagat-kemboi-9a8848262/) to discuss projects, share ideas, or just chat about tech and innovation.
+I'm Titus Kiplagat, a passionate software engineer focusing on front-end web development. 🌟 I'm dedicated to lifelong learning and enjoy tackling challenging problems. 📫 Let's connect and collaborate! Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/titus-kiplagat-kemboi-9a8848262/) to discuss projects, share ideas, or chat about tech and innovation.
 
 <br/>
 
-```js
+``` js
 const getTitusKiplagatInfo = () => {
  return {
 	jobInterests: ["Front-End Developer", "Web Developer"],
@@ -13,14 +13,14 @@ const getTitusKiplagatInfo = () => {
 	hobbies: ["Tech", "Learning", "Farming", "Nature documentaries"],
 	askMeAbout: ["Me", "Tech-Related Info", "Sheep Rearing"],
 	funFacts: [
-		{ 👨‍💻: "I have 1 years of remote development experience" },
+		{ 🤝: "I am a Believer" },
+		{ 👨‍💻: "I have 1 year of remote development experience" },
 		{ 💼: "I'm actively looking for job opportunities and am ready to contribute to your team!" }
 		{ 🌱: "I'm currently a student" },
-		{ 🔭: "I’m currently working on leaderboard project" },
+		{ 🔭: "I’m currently working on a leaderboard project" },
 		{ 👫: [ "badminton player", "nature enthusiast" ] },
-		{ 🤝: "I am a Believer" },
 		{ ⚡: "I usually go for nature walks and hiking on weekends" },
-		{ 🐑: "I also enjoy sheep rearing. I tend to them 30 minutes everyday" }
+		{ 🐑: "I also enjoy sheep rearing. I tend to them 30 minutes every day" }
 	]
  };
 };
@@ -42,7 +42,7 @@ const getTitusKiplagatInfo = () => {
   <img alt="ESLint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
   <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img alt="Boostrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
   <img alt="Firefox" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
