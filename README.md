@@ -16,7 +16,7 @@ const getTitusKiplagatInfo = () => {
 		{ 🤝: "I am a Believer" },
 		{ 👨‍💻: "I have 1 year of remote development experience" },
 		{ 💼: "I'm actively looking for job opportunities and am ready to contribute to your team!" }
-		{ 🌱: "I'm currently a student" },
+		{ 🌱: "I'm currently learning RoR" },
 		{ 🔭: "I’m currently working on a leaderboard project" },
 		{ 👫: [ "badminton player", "nature enthusiast" ] },
 		{ ⚡: "I usually go for nature walks and hiking on weekends" },
